@@ -1,1 +1,1 @@
-# pythonAssignments by Jawan tech
+# PythonAssignments By Jawan Tech
